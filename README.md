@@ -1,3 +1,7 @@
-# Conference Note site
+# Conference Note site (retired)
 
-Published files only (GitHub Pages). Source, App Store assets and drafts live in the private `conference-note-landing` repo; edit there and copy these files here.
+The landing page, tutorial, privacy policy, terms and support pages now live in
+[nduwork/conference-note-landing](https://github.com/nduwork/conference-note-landing), served at
+https://conference-note.nduwork.com/. Edit them there.
+
+This repo no longer publishes anything; GitHub Pages is disabled.
