@@ -41,3 +41,4 @@ details p{color:var(--mute);margin:.6em 0 0}
 footer{padding:40px 0 60px;color:var(--mute);font-size:14px;text-align:center}
 footer a{color:var(--mute);margin:0 10px}
 @media(max-width:760px){.hero .wrap,.split{grid-template-columns:1fr}.steps,.feats,.packs{grid-template-columns:1fr}.hero .wrap>div:first-child{text-align:center}.lead{margin:auto}}
+#tutorial .phone{margin-bottom:16px}
